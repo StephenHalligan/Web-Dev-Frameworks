@@ -1,0 +1,117 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Logitech C920 HD Pro Webcam, Full HD 1080p/30fps Video",
+      "company": "Logitech",
+      "type": "Webcam",
+      "price": 59.99,
+      "rating": 4.5,
+      "image": "item1.jpg",
+      "promos": [
+        "RRP: ",
+        "£89.99"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Apple Pencil (2nd Generation)",
+      "company": "Apple",
+      "type": "Computer Accessory",
+      "price": 105.99,
+      "rating": 5,
+      "image": "item2.jpg",
+      "promos": [
+        "RRP: ",
+        "£119.99"      
+      ]
+    },
+    {
+      "id": 3,
+      "name": "iPhone Charger Plug MFi Certified 2 2Pack 1M iPhone Cable Fast ",
+      "company": "Bigear",
+      "type": "Charger",
+      "price": 9.99,
+      "rating": 4,
+      "image": "item3.jpg",
+      "promos": [
+        ""      
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Anker Nano USB C Plug, 20W PIQ 3.0 Durable Compact Fast Charger",
+      "company": "Anker",
+      "type": "Charger",
+      "price": 16.99,
+      "rating": 4.5,
+      "image": "item4.jpg",
+      "promos": [
+        ""      
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Logitech MK270 Wireless Keyboard and Mouse Combo",
+      "company": "Logitech",
+      "type": "Keyboard & Mouse",
+      "price": 21.91,
+      "rating": 4.3,
+      "image": "item5.jpg",
+      "promos": [
+        ""
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Sabrent 4-Port USB 3.0 Hub with Individual LED Power Switches",
+      "company": "Sabrent",
+      "type": "USB Hub",
+      "price": 10.49,
+      "rating": 4.1,
+      "image": "item6.jpg",
+      "promos": [
+        "RRP: ",
+        "11.89"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "BONTEC Dual Monitor Stand for 13-27 inch LCD LED PC Screens",
+      "company": "BONTEC",
+      "type": "Monitor Stand",
+      "price": 29.99,
+      "rating": 4.5,
+      "image": "item7.jpg",
+      "promos": [
+        "RRP: ",
+        "11.89"
+     ]
+    },
+    {
+      "id": 8,
+      "name": "KROSER Laptop Backpack 15.6 Inch School Computer Rucksack",
+      "company": "KROSER",
+      "type": "Backpack",
+      "price": 31.99,
+      "rating": 5,
+      "image": "item8.jpg",
+      "promos": [
+        ""
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Logitech MX Master 3 Advanced Wireless Mouse",
+      "company": "Logitech",
+      "type": "Mouse",
+      "price": 75.00,
+      "rating": 4.5,
+      "image": "item3.jpg",
+      "promos": [
+        "RRP: ",
+        "99.99"
+      ]
+    }
+  ]
+}

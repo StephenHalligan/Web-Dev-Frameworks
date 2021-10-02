@@ -1,0 +1,37 @@
+.name {
+  font-weight: 700;
+  color: darkcyan;
+  margin-top: 20px;
+  margin-bottom: 5px;
+  font-size: 20px;
+}
+
+.rating {
+  color: darkgoldenrod;
+  font-size: 15px;
+}
+
+.price {
+  color: darkred;
+  font-size: 18px;
+}
+
+.promo {
+  color: dimgrey;
+  font-size: 16px;
+}
+
+.company {
+  color: black;
+  font-size: 15px;
+}
+
+.product {
+  text-align: center;
+  width: 33.33%;
+  box-sizing: border-box;
+  padding: 30px;
+  border-width: 1px;
+  border-color: lightgrey;
+  border-style: solid;
+}
